@@ -29,6 +29,14 @@
     ],
     "filmler": [
         {
+            "id": 288,
+            "baslik": "Azrail",
+            "kategori": "Aksiyon Filmleri",
+            "afis": "https://img.fullhdfilmizlesene.biz/poster/film/azrail-azrael-57048.jpg",
+            "aciklama": "Sessizliğin ve sessizliğin hüküm sürdüğü uzak ve izole bir dünyada, kimse konuşmuyor. Bu dünyada, dindar bir kadın, kendi kurallarını koymuş acımasız bir lider tarafından yönetilen bir topluluğun parçasıdır. Ancak bu sessiz düzen, genç bir kadının hapishanesinden kaçmasıyla bozulur. Kaçan bu genç kadın, Azrael, peşindekilerden kurtulmaya çalışırken sadece hayatta kalmayı ummaktadır.\nAzrael'in kaçışı, topluluğu huzursuz eder ve dindar kadın, Azrael'i bulma görevini üstlenir. Azrael sonunda yakalanır ve sert liderlerin eline düşer. Bu liderler, onu cezasız bırakmaya hiç niyetli değillerdir. Onların amacı, Azrael'i yakalamak ve çevredeki vahşi doğanın derinliklerinde gizlenen kadim bir kötülüğü yatıştırmak için onu kurban etmektir.\nBu sıradışı film, sessizlik dolu dünyası ve derin anlatımıyla izleyiciyi içine çekiyor. Azrael'in tehlikeli macerası ve bir kadının inançlarıyla yüzleşmesi, izleyiciye gerilim dolu anlar yaşatıyor. Film, alışılmışın dışında hikayesiyle izleyicileri düşündürmeye aday. Izleyici kendini bu büyüleyici ve karanlık dünyada bulacak.",
+            "iframe": "https://rapidvid.net/vod/v1x21448a8f"
+        },
+        {
             "id": 287,
             "baslik": "Bridget Jones: Onun İçin Çıldırıyor",
             "kategori": "Komedi Filmleri",
